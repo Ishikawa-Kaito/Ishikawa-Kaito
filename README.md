@@ -59,15 +59,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&amp;show_icons=true&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000" />
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&amp;show_icons=true&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishikawa-Kaito&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishikawa-Kaito&amp;theme=github" />
+  <img height="170" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishikawa-Kaito&amp;theme=github" />
 </picture>
 &nbsp;&nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishikawa-Kaito&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishikawa-Kaito&amp;theme=github" />
+  <img height="170" alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishikawa-Kaito&amp;theme=github" />
 </picture>
 
 </div>
