@@ -3,9 +3,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=550&height=55&lines=Full+Stack+Developer;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;TypeScript+%C2%B7+Kotlin+%C2%B7+Rust" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=1A1A2E&center=true&vCenter=true&width=550&height=55&lines=Full+Stack+Developer;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;TypeScript+%C2%B7+Kotlin+%C2%B7+Rust" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=1A1A2E&center=true&vCenter=true&width=550&height=55&lines=Full+Stack+Developer;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;TypeScript+%C2%B7+Kotlin+%C2%B7+Rust" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=700&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=E8E8E8&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=55&amp;lines=Full+Stack+Developer;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;TypeScript+%C2%B7+Kotlin+%C2%B7+Rust" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=700&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=1A1A2E&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=55&amp;lines=Full+Stack+Developer;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;TypeScript+%C2%B7+Kotlin+%C2%B7+Rust" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=700&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=1A1A2E&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=55&amp;lines=Full+Stack+Developer;%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;TypeScript+%C2%B7+Kotlin+%C2%B7+Rust" />
 </picture>
 
 <br/>
@@ -59,15 +59,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&show_icons=true&hide_border=true&bg_color=00000000&title_color=e8e8e8&text_color=b0b0b0&icon_color=e8e8e8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a1a2e&text_color=4a4a5a&icon_color=1a1a2e" />
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a1a2e&text_color=4a4a5a&icon_color=1a1a2e" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&amp;show_icons=true&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ishikawa-Kaito&amp;show_icons=true&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000" />
 </picture>
 &nbsp;&nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&layout=compact&hide_border=true&bg_color=00000000&title_color=e8e8e8&text_color=b0b0b0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&layout=compact&hide_border=true&bg_color=00000000&title_color=1a1a2e&text_color=4a4a5a" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&layout=compact&hide_border=true&bg_color=00000000&title_color=1a1a2e&text_color=4a4a5a" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikawa-Kaito&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000" />
 </picture>
 
 </div>
@@ -76,6 +76,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ishikawa-Kaito&style=flat&color=1a1a2e&label=visitors" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=Ishikawa-Kaito&amp;style=flat&amp;color=1a1a2e&amp;label=visitors" alt="visitors" />
 
 </div>
