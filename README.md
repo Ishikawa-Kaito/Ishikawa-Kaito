@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="kaito.svg" width="120" alt="Kaito" />
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=700&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=E8E8E8&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Full+Stack+Developer;Photographer+%C2%B7+Music+Composer;Think+deep%2C+build+fast;%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&amp;weight=700&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=1A1A2E&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=55&amp;lines=Full+Stack+Developer;Photographer+%C2%B7+Music+Composer;Think+deep%2C+build+fast;%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA" />
