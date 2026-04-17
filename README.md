@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="kaito.svg" width="120" alt="Kaito" />
+<img src="kaito_compressed.gif" width="120" alt="Kaito" />
 
 <br/>
 
